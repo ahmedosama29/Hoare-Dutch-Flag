@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/?ref=gcse
+https://medium.com/quick-code/dutch-flag-algorithm-3669af2b14fd#:~:text=Dutch%20Flag%20Algorithm%20%28DFA%29%20is%20one%20of%20the,space%20complexity%20for%20the%20algorithm%20is%20O%20%281%29.
+https://algs4.cs.princeton.edu/23quicksort/
